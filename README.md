@@ -5,7 +5,7 @@
 
 # Tecnologias usadas
 
-<p> As tecnologias usadas serão atualizadas a nova formação realizada</p>
+<p> As tecnologias usadas serão atualizadas a cada nova formação realizada</p>
 <hr>
 
 <div style="display: inline_block">
