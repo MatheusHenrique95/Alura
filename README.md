@@ -1,6 +1,6 @@
 ## Formações Alura
 
-<p>Nesse repositório vou adicionar todos os projeto dealizados em formações que estou realizando na *Alura*</p>
+Nesse repositório vou adicionar todos os projeto realizados em formações que estou concluindo na **Alura**
 <hr>
 
 # Tecnologias usadas
